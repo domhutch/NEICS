@@ -1,2 +1,0 @@
-# NEICS
-NEICS Projects
